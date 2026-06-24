@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pigfish.aternos.host",
+    "ip": "FrostedNyxen.aternos.me",
     "port": 18104,
-    "version": "",
-    "try-creative": false
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
